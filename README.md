@@ -21,9 +21,27 @@ Cloud Storage is where data will be stored. Then transformation logic will be ap
 
 **Looker Studio**: is a web-based data visualization and reporting tool that allows you to create interactive dashboards and reports from a variety of data sources, including Google Analytics, Google Sheets, and BigQuery. It enables you to turn your data into informative and engaging visualizations.
 
-### Other Tools
+#### Other Tools
 
 **Mage**: Open-source data pipeline tool for transforming and integrating data. Similar to Airflow but more interactive and added features. 
+- Modern Data Pipeine Tool - https://www.mage.ai/
+
+## Data Source
+
+
+More info about dataset can be found here:
+
+Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
+
+
+
+
+
+
+
+
 
 ### Fact & Dimension Table
 
@@ -38,6 +56,6 @@ Cloud Storage is where data will be stored. Then transformation logic will be ap
 - Contains columns that have low cardinality and don't change frequently 
 - Contains columns that can be used for grouping or filtering data for analysis
 
-
+#
 
 ######
