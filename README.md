@@ -59,6 +59,7 @@ More info about dataset can be found here:
 - Contains columns that have low cardinality and don't change frequently 
 - Contains columns that can be used for grouping or filtering data for analysis
 
-#
+#### Data Model 
+![alt text](image-1.png)
 
 ######
